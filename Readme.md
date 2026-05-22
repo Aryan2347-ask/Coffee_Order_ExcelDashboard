@@ -97,7 +97,7 @@ Dashboard Preview
 
 
 
-!\[Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](./images/dashboard.png)
 
 
 
