@@ -97,7 +97,7 @@ Dashboard Preview
 
 
 
-![Dashboard Preview](./images/dashboard.png)
+<img src="https://github.com/Aryan2347-ask/Coffee_Order_ExcelDashboard/blob/main/Images/dashboard.png?raw=true" width="1000">
 
 
 
