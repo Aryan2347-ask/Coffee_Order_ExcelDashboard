@@ -1,4 +1,4 @@
-Coffee Sales Dashboard ☕📊
+<h1 align="center">☕ Coffee Sales Dashboard</h1>
 
 
 
@@ -97,7 +97,7 @@ Dashboard Preview
 
 
 
-!\[Dashboard Preview](Images/CoffeeOrderDashboard.png)
+!\[Dashboard Preview](Images/dashboard.png)
 
 
 
